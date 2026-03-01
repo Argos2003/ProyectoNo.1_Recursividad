@@ -20,7 +20,7 @@ public class StringReader {
             br.close();
 
         } catch (Exception e) {
-            System.out.println("Error al leer archivo de strings");
+            System.out.println("Error al leer archivo de strings.");
         }
     }
 
