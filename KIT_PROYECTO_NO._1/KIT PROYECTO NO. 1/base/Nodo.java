@@ -1,6 +1,6 @@
 public class Nodo {
     private int hijoIzquierda, hijoDerecha;
-    private String valorAlfabeto;
+    private String valorAlfabeto; 
     private Nodo iz, der;
     private boolean izNodo = false, derNodo = false;
 
@@ -8,7 +8,10 @@ public class Nodo {
         this.valorAlfabeto = nodo[0];
         this.hijoIzquierda = Integer.parseInt(nodo[1]);
 <<<<<<< HEAD
+<<<<<<< HEAD
         this.hijoIzquierda = Integer.parseInt(nodo[2]);
+=======
+>>>>>>> parent of 6598a9e (PRUEBA2)
 =======
 >>>>>>> parent of 6598a9e (PRUEBA2)
         this.hijoDerecha = Integer.parseInt(nodo[2]);
@@ -60,8 +63,11 @@ public class Nodo {
         return izNodo || derNodo;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> parent of 6598a9e (PRUEBA2)
 =======
 >>>>>>> parent of 6598a9e (PRUEBA2)
 }
