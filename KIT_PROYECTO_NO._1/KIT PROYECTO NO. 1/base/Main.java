@@ -47,7 +47,11 @@ public class Main {
     }
 
     public static void instrucciones(){
+<<<<<<< HEAD
         System.out.println("\niNSTRUCCIONES PARA USO:\n");
+=======
+        System.out.println("\nINSTRUCCIONES PARA USO:\n");
+>>>>>>> parent of 6598a9e (PRUEBA2)
         System.out.println("java Main <ARCHIVO_TREE><ARCHIVO_CUERDAS><ARCHIVO_SALIDA>");
         System.out.println("<ARCHIVO_TREE>: tests/binary trees/nombre.binary_tree");
         System.out.println("<ARCHIVO_CUERDAS>: tests/strings/nombre.txt");
